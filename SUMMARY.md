@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Замена пола на кухни под стиралку](README.md)
+* [работа день 1](rabota.md)
+* [работа день 2](rabota-den-2.md)
+* [работа день 3, 4](rabota-den-3.md)
 
